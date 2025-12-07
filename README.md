@@ -53,12 +53,31 @@ I'm Khush from India.<br><br>
 
 ###
 
-<h3 align="left">📊 My Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pithva007&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pithva007&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pithva007" alt="Streak Stats" />
-</p>
+### Competitive Programming
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/khuushhh/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/khush07)
+
+<img src="https://leetcard.jacoblin.cool/khuushhh?ext=contest&theme=dark" alt="LeetCode Stats" /> &nbsp;&nbsp;&nbsp;
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=khush07&theme=github_dark" alt="Codeforces Stats" />
+
+</div>
+
+---
+
+## Connect With Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/khush-pithva-373465323/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin:4px;"/>
+  </a>
+  <a href="mailto:khushpithva@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin:4px;"/>
+  </a>
+  <a href="https://instagram.com/pithvakhush07">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin:4px;"/>
+  </a>
+</div>
+
 
 ###
 
@@ -74,3 +93,6 @@ I'm Khush from India.<br><br>
   <a href="https://www.leetcode.com/khuushhh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
   <a href="https://discord.gg/khushh007" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
 </p>
+## Coding Profiles & Achievements
+<div align="center" style="padding:4px;">
+
