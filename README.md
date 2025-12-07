@@ -1,6 +1,9 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&duration=3000&pause=600&color=00CED1&center=true&vCenter=true&width=700&lines=👋+Hello+there,+I+am+Khush+Pithva;🚀+Welcome+to+my+GitHub+Profile;✨+Let’s+build+something+amazing!" alt="Typing Animation"/>
+</h1>
 
 ###
 
@@ -22,22 +25,16 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pithva007" />
 </div>
 
-###
 
-<h1 align="center">Hi 👋, I'm Khush Pithva</h1>
-<h3 align="center">Learning new things every day</h3>
+## About Me
 
-###
+- 🔭 **Currently focusing on strengthening my DSA and C++ problem-solving abilities.**  
+- 🌱 **Exploring Python, JavaScript, and the fundamentals of Web Development.**  
+- 👯 **Open to collaborating on beginner-friendly open-source projects and learning through real contributions.**  
+- 💬 **Feel free to reach out about C++, Data Structures & Algorithms, or Competitive Programming (CF Specialist).**  
+- ⚡ **Fun fact:** *I can sit with a bug for hours and still enjoy every moment of figuring it out 😄*
 
-<h3 align="left">About Me</h3>
-<p align="left">
-I'm Khush from India.<br><br>
-- 🔭 I’m currently working on **Backend Project**<br>
-- 📚 I'm currently learning **new technologies**<br>
-- ⚡ In my free time I **code, play games, and explore new frameworks**
-</p>
 
-###
 
 <h3 align="left">🛠 Languages and Tools</h3>
 <p align="left">
