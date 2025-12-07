@@ -52,16 +52,31 @@ I'm Khush from India.<br><br>
 </p>
 
 ###
+## 🚀 Competitive Programming Profiles
+<div align="center">
 
-### Competitive Programming
+### 📌 Platforms
+<p>
+  <a href="https://leetcode.com/khuushhh/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/khush07">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+</p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/khuushhh/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/khush07)
+### 🧠 Stats & Ratings
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<img src="https://leetcard.jacoblin.cool/khuushhh?ext=contest&theme=dark" alt="LeetCode Stats" /> &nbsp;&nbsp;&nbsp;
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=khush07&theme=github_dark" alt="Codeforces Stats" />
+  <img src="https://leetcard.jacoblin.cool/khuushhh?ext=contest&theme=dark" height="250" alt="LeetCode Stats"/>
+
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=khush07&theme=github_dark" height="250" alt="Codeforces Stats"/>
 
 </div>
+
+</div>
+
 
 ---
 
@@ -93,6 +108,5 @@ I'm Khush from India.<br><br>
   <a href="https://www.leetcode.com/khuushhh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
   <a href="https://discord.gg/khushh007" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
 </p>
-## Coding Profiles & Achievements
 <div align="center" style="padding:4px;">
 
