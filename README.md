@@ -32,7 +32,6 @@
 - 🌱 **Exploring Python, JavaScript, and the fundamentals of Web Development.**  
 - 👯 **Open to collaborating on beginner-friendly open-source projects and learning through real contributions.**  
 - 💬 **Feel free to reach out about C++, Data Structures & Algorithms, or Competitive Programming (CF Specialist).**  
-- ⚡ **Fun fact:** *I can sit with a bug for hours and still enjoy every moment of figuring it out 😄*
 
 
 
