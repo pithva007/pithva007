@@ -7,17 +7,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/khush-pithva-373465323/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/c/khush_pithva" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge" height="25" alt="YouTube" />
-  </a>
-  <a href="https://twitter.com/khushpithv60871" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" height="25" alt="Twitter" />
-  </a>
-</div>
+
 
 ###
 
@@ -87,12 +77,19 @@
   <a href="https://instagram.com/pithvakhush07">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin:4px;"/>
   </a>
+   <a href="https://www.youtube.com/c/khush_pithva" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge" height="25" alt="YouTube" />
+  </a>
+  <a href="https://twitter.com/khushpithv60871" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" height="25" alt="Twitter" />
+  </a>
 </div>
 
 
 ###
 
 <h3 align="left">💬 Connect with Me</h3>
+
 <p align="left">
   <a href="https://twitter.com/khushpithv60871" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/khush-pithva-373465323/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
@@ -104,5 +101,7 @@
   <a href="https://www.leetcode.com/khuushhh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
   <a href="https://discord.gg/khushh007" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
 </p>
+
 <div align="center" style="padding:4px;">
+
 
