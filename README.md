@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&duration=3000&pause=600&color=00CED1&center=true&vCenter=true&width=700&lines=👋+Hello+there,+I+am+Khush+Pithva;🚀+Welcome+to+my+GitHub+Profile;✨+Let’s+build+something+amazing!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&duration=3000&pause=600&color=00CED1&center=true&vCenter=true&width=700&lines=👋+Hello+there,+I+am+Khush+Pithva;+Welcome+to+my+GitHub+Profile;✨+Let’s+build+something+amazing!" />
 </h1>
 
 <div align="center">
@@ -12,16 +12,16 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔭 Currently strengthening my **DSA and C++ problem-solving skills**  
-- 🌱 Exploring **Python, JavaScript, and Web Development fundamentals**  
-- 👯 Open to collaborating on **beginner-friendly open-source projects**  
-- 💬 Reach out to me for **C++, DSA, or Competitive Programming** (CF Specialist)  
+-  Currently strengthening my **DSA and C++ problem-solving skills**  
+-  Exploring **Python, JavaScript, and Web Development fundamentals**  
+-  Open to collaborating on **beginner-friendly open-source projects**  
+-  Reach out to me for **C++, DSA, or Competitive Programming** (CF Specialist)  
 
 ---
 
-## 🛠 Languages & Tools
+##  Languages & Tools
 
 <p align="left">
 <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
@@ -46,11 +46,11 @@
 
 ---
 
-## 🚀 Competitive Programming Profiles
+##  Competitive Programming Profiles
 
 <div align="center">
 
-### 📌 Platforms
+### Platforms
 <p>
   <a href="https://leetcode.com/khuushhh/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
@@ -61,7 +61,7 @@
   </a>
 </p>
 
-### 🧠 Stats & Ratings
+### Stats & Ratings
 
 <div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
   <img src="https://leetcard.jacoblin.cool/khuushhh?ext=contest&theme=dark" height="250"/>
