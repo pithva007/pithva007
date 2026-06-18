@@ -14,10 +14,13 @@
 
 ## About Me
 
--  Currently strengthening my **DSA and C++ problem-solving skills**  
--  Exploring **Python, JavaScript, and Web Development fundamentals**  
--  Open to collaborating on **beginner-friendly open-source projects**  
--  Reach out to me for **C++, DSA, or Competitive Programming** (CF Specialist)  
+- Currently building **real-world AI applications** using **LLMs, RAG, AI Agents, and LangGraph**
+- Working on **AI-powered systems**, including document processing, retrieval pipelines, intelligent assistants, and workflow automation
+- Exploring **Generative AI, Machine Learning, Python, JavaScript, and modern AI frameworks**
+- Strengthening my **DSA, Competitive Programming, and C++ problem-solving skills** (Codeforces Specialist)
+- Open to collaborating on **AI, Machine Learning, LLM, RAG, and Open-Source projects**
+- Reach out to me for **AI/LLMs, RAG, AI Agents, C++, DSA, or Competitive Programming**
+
 
 ---
 
